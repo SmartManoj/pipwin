@@ -40,4 +40,4 @@ test_script:
   # Last package:
   - "%PYTHON%\\Scripts\\pipwin.exe search zstd"
   # Last Misc package:
-  - "%PYTHON%\\Scripts\\pipwin.exe search zope.testing"
+  - "%PYTHON%\\Scripts\\pipwin.exe search zope.exceptions"
